@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "HACK",
+  "base_artist": "FINLANDS",
+  "createdAt": "2026-03-09T10:53:01.516899Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hack Attack",
+      "artist": "Sigue Sigue Sputnik",
+      "has_synced": false,
+      "path": "select/01_Hack_Attack_Sigue_Sigue_Sputnik.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Think (Hack Radio Edit)",
+      "artist": "Information Society",
+      "has_synced": false,
+      "path": "select/02_Think_(Hack_Radio_Edit)_Information_Society.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Voodoo Hack",
+      "artist": "Strange Daddy",
+      "has_synced": true,
+      "path": "select/03_Voodoo_Hack_Strange_Daddy.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Married To My Hack",
+      "artist": "The New Basement Tapes",
+      "has_synced": true,
+      "path": "select/04_Married_To_My_Hack_The_New_Basement_Tapes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hack Slash",
+      "artist": "Getter feat. Ghostemane",
+      "has_synced": true,
+      "path": "select/05_Hack_Slash_Getter_feat._Ghostemane.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hack Slash",
+      "artist": "Getter, Ghostemane",
+      "has_synced": true,
+      "path": "select/06_Hack_Slash_Getter,_Ghostemane.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "life hack",
+      "artist": "Vaundy",
+      "has_synced": true,
+      "path": "select/07_life_hack_Vaundy.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hack You",
+      "artist": "Neko Hacker feat. うごくちゃん",
+      "has_synced": true,
+      "path": "select/08_Hack_You_Neko_Hacker_feat._うごくちゃん.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hack You (feat. うごくちゃん)",
+      "artist": "Neko Hacker",
+      "has_synced": true,
+      "path": "select/09_Hack_You_(feat._うごくちゃん)_Neko_Hacker.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hack It",
+      "artist": "K Motionz feat. Duskee",
+      "has_synced": false,
+      "path": "select/10_Hack_It_K_Motionz_feat._Duskee.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "HACK/SLASH",
+      "artist": "GHOSTEMANE & GETTER",
+      "has_synced": true,
+      "path": "select/11_HACK_SLASH_GHOSTEMANE_&_GETTER.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Voodoo Hack",
+      "artist": "Strange Daddy",
+      "has_synced": true,
+      "path": "select/12_Voodoo_Hack_Strange_Daddy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HACK",
+      "artist": "FINLANDS",
+      "has_synced": false,
+      "path": "select/pl_01_HACK_FINLANDS.txt"
+    }
+  ]
+}
